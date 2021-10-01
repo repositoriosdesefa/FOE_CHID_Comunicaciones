@@ -8,4 +8,4 @@ Implementación de herramientas para la sistematización y optimización del pro
 
 ## Observaciones
 La línea 75 del código en RMarkdown fue eliminada, dado que posee información sensible.
-La sesión que brinda información de un determinado periodo es de 7 meses en la versión subida
+El periodo determinado es de 7 meses en la versión subida
