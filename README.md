@@ -5,7 +5,7 @@ Implementación de herramientas para la sistematización y optimización del pro
 - Comunicaciones_CHID_Informe.Rmd : Código en RMarkdown para la generación automatizada del informe mensual.
 - Peru.png : Archivos necesarios para la generación del documento.
 - Rlogo.png : Archivos necesarios para la generación del documento.
-- Carpeta Comunicaciones CHID: Con imagenes de los productos finales.
+- Carpeta Imagenes: Con imagenes de los encabezados y productos finales.
 
 ## Observaciones
 - La línea 75 del código en RMarkdown fue eliminada, dado que posee información sensible.
